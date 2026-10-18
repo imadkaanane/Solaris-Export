@@ -1,0 +1,9 @@
+﻿table;grain;colonne;type;unite_ou_sens;manquants
+marches;pays-année;pays_id;int64;Identifiant fictif;0
+marches;pays-année;annee;int64;année civile;0
+marches;pays-année;population;float64;personnes;0
+marches;pays-année;pib_habitant;float64;USD fictifs/habitant;100
+marches;pays-année;equipements_par_1000;float64;équipements pour 1 000 habitants;0
+marches;pays-année;importations_unites;float64;équipements/an;0
+marches;pays-année;risque_logistique;float64;score 0-100, élevé défavorable;0
+marches;pays-année;croissance_pct;float64;points de pourcentage annuel;0
